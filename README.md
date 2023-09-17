@@ -1,6 +1,6 @@
 # SignDocument
 
-Added sample for signing a PDF with a p12 certificate.
+Added sample for signing a PDF with a p12 certificate (both Python and NodeJS)
 
 TODO::
 Write PDF to IPFS
